@@ -9,7 +9,7 @@ public class Assi21 {
 		System.setProperty("webdriver.chrome.driver","./driver/chromedriver.exe");
 		// ChromeDriver driver =new Chromedriver();
 		   WebDriver driver=new ChromeDriver();
-		   driver.navigate().to("https://demoq2.com//");  
+		   driver.navigate().to("https://demo.com//");  
 	          
 	          
 	          driver.manage().window().maximize();  
