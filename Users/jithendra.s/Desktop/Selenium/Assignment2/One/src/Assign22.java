@@ -9,7 +9,7 @@ public class Assi21 {
 		System.setProperty("webdriver.chrome.driver","./driver/chromedriver.exe");
 		// ChromeDriver driver =new Chromedriver();
 		   WebDriver driver=new ChromeDriver();
-		   driver.navigate().to("https://www.msn.com/en-in");  
+		   driver.navigate().to("https://www.msn1.com/en-in");  
 	          
 	          
 	          driver.manage().window().maximize();  
